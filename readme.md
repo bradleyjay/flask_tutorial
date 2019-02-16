@@ -14,3 +14,5 @@ flask run
 To restart server, just `flask run` again
 
 [current page: http://flask.pocoo.org/docs/1.0/tutorial/blog/]
+
+avi's: https://github.com/aturkewi/flask-tutorial
